@@ -1,0 +1,43 @@
+*{
+	font-family:"Arial Black",Arial,sans-serif;
+}
+a {
+	text-decoration:none;
+	color:#333333;
+	font-size:17px;
+	font-style:italic;
+}
+body {
+	background-color:#f2f2f2;
+}
+p{
+	font-size:17px;
+}
+hr{
+	color:#333333;
+}
+h1,.title{
+	font-family:"Comic Sans MS",cursive,"Arial Black",Arial,sans-serif;
+	color:#279F34;
+	font-weight:bold;
+}
+.listItem{
+	background-color:#f2f2f2;
+}
+.gallery{
+	background-color:#f2f2f2;
+}
+.button{
+	background-color:#279F34;
+	border:none;
+   color:#f2f2f2;
+   padding:10px 15px;
+   text-align:center;
+   text-decoration:none;
+   display:inline-block;
+   font-size:17px;
+	border-radius:15px;
+}
+#title{
+	font-size:20px;
+}
