@@ -1,5 +1,5 @@
 # TravelMap
-This web allow you put where you want to travel and where've you been in a public gallery, implemented through Google Maps API.
+This web app allows you put where have you been and where you want to travel, in a public gallery, implemented through Google Maps API.
 
 ---
 
