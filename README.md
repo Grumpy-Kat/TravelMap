@@ -1,4 +1,4 @@
-# TravelMap
+# Travel Map
 This web app allows you put where have you been and where you want to travel. It is implemented using the Google Maps API.
 
 ---
